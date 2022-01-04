@@ -65,3 +65,6 @@ h1{
     border-image:linear-gradient( rgb(255, 81, 0),rgb(255, 71, 172));
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
